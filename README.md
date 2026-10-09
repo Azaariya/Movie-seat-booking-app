@@ -8,7 +8,7 @@ A movie discovery and cinema seat booking web application built with JavaScript.
 ![Movie browsing interface](./movie-browsing.png)
 
 ### Seat Selection
-![Interactive cinema seat selection](./movie-browsing(2).png)
+![Interactive cinema seat selection](./seat-browsing).png)
 
 ## ✨ Features
 
