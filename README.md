@@ -4,7 +4,7 @@ A movie discovery and cinema seat booking web application built with JavaScript.
 
 ## 🌐 Live Demo
 
-**[View Movie Seat Booking](https://movie-booking-app-by-azariya.netlify.app)**
+[View Movie Seat Booking](https://movie-booking-app-by-azariya.netlify.app/)
 
 ## 📸 Screenshots
 
