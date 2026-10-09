@@ -2,6 +2,10 @@
 
 A movie discovery and cinema seat booking web application built with JavaScript. Browse movies, explore showtimes, select your seats, and manage your booking through an interactive cinema interface.
 
+## 🌐 Live Demo
+
+**[View Movie Seat Booking](movie-booking-app-by-azariya.netlify.app)**
+
 ## 📸 Screenshots
 
 ### Movie Browsing
