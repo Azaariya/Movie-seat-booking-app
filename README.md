@@ -2,6 +2,14 @@
 
 A movie discovery and cinema seat booking web application built with JavaScript. Browse movies, explore showtimes, select your seats, and manage your booking through an interactive cinema interface.
 
+## 📸 Screenshots
+
+### Movie Browsing
+![Movie browsing interface](./movie-browsing.png)
+
+### Seat Selection
+![Interactive cinema seat selection](./movie-browsing(2).png)
+
 ## ✨ Features
 
 * **Movie Discovery** — Browse popular movies and search for specific titles.
